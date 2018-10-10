@@ -1,7 +1,3 @@
-## Company Name to URL Selector
-
-Write a web application that given a company name, it will display the domain associated to that company. The web application needs to be API driven. The web application needs to select the most accurate company domain.
-
 #### Requirements:
 - [x] Use Express to write the API.
 - [x] Use “application/json” as the Content-type in the API response.
