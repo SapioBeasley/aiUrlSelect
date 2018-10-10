@@ -1,0 +1,457 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - nike",
+        "totalResults": "575000000",
+        "searchTerms": "nike",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "009637816073108880163:nfsysoqnztc"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - nike",
+        "totalResults": "575000000",
+        "searchTerms": "nike",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "009637816073108880163:nfsysoqnztc"
+      }
+    ]
+  },
+  "context": {
+    "title": "Seamless AI Search"
+  },
+  "searchInformation": {
+    "searchTime": 0.221354,
+    "formattedSearchTime": "0.22",
+    "totalResults": "575000000",
+    "formattedTotalResults": "575,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "NIKE, Inc.— Inspiration and Innovation for Every Athlete in the World.",
+      "htmlTitle": "\u003cb\u003eNIKE\u003c/b\u003e, Inc.— Inspiration and Innovation for Every Athlete in the World.",
+      "link": "https://www.nike.com/",
+      "displayLink": "www.nike.com",
+      "snippet": "Experience sports, training, shopping and everything else that's new at Nike from \nany country in the world.",
+      "htmlSnippet": "Experience sports, training, shopping and everything else that&#39;s new at \u003cb\u003eNike\u003c/b\u003e from \u003cbr\u003e\nany country in the world.",
+      "cacheId": "mgtROrdDu1UJ",
+      "formattedUrl": "https://www.nike.com/",
+      "htmlFormattedUrl": "https://www.\u003cb\u003enike\u003c/b\u003e.com/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "225",
+            "height": "225",
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTAs091owY33AFUeFpoNRZYNlrAp2rYmoegT4y5udgT_MICc-pu0_vVqYg"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "width=device-width, minimum-scale=1.0",
+            "og:type": "website",
+            "og:image": "http://content.nike.com/content/dam/one-nike/globalAssets/social_media_images/nike_swoosh_logo_black.png",
+            "google": "nositelinkssearchbox",
+            "application-name": "Nike.com",
+            "msapplication-config": "none",
+            "msapplication-tilecolor": "#000000",
+            "msapplication-square70x70logo": "ie-icon-70x70.png",
+            "msapplication-square150x150logo": "ie-icon-150x150.png",
+            "msapplication-square310x310logo": "ie-icon-310x310.png",
+            "mobile-web-app-capable": "yes"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://content.nike.com/content/dam/one-nike/globalAssets/social_media_images/nike_swoosh_logo_black.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Official Store. Nike.com",
+      "htmlTitle": "Official Store. \u003cb\u003eNike\u003c/b\u003e.com",
+      "link": "https://store.nike.com/us/en_us/",
+      "displayLink": "store.nike.com",
+      "snippet": "Nike.com is your destination for the best selection of innovative, must-have \nproducts. Enjoy free shipping and returns with NikePlus.",
+      "htmlSnippet": "\u003cb\u003eNike\u003c/b\u003e.com is your destination for the best selection of innovative, must-have \u003cbr\u003e\nproducts. Enjoy free shipping and returns with NikePlus.",
+      "formattedUrl": "https://store.nike.com/us/en_us/",
+      "htmlFormattedUrl": "https://store.\u003cb\u003enike\u003c/b\u003e.com/us/en_us/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "389",
+            "height": "129",
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQySF1JeI612nmy3fMXjcdOQG1EWf1EF8LR-E26T99_EUSYCcokC3Sy3Pdt"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1",
+            "application-name": "Nike.com",
+            "msapplication-config": "none",
+            "msapplication-tilecolor": "#000000",
+            "msapplication-square70x70logo": "ie-icon-70x70.png",
+            "msapplication-square150x150logo": "ie-icon-150x150.png",
+            "msapplication-square310x310logo": "ie-icon-310x310.png",
+            "mobile-web-app-capable": "yes"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://images.nike.com/is/image/DotCom/pwp_sheet2?$NIKE_PWPx3$&$img0=AJ4115_001&$img1=AJ4115_300&$img2=AJ4115_486"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Nike. Just Do It. Nike.com",
+      "htmlTitle": "\u003cb\u003eNike\u003c/b\u003e. Just Do It. \u003cb\u003eNike\u003c/b\u003e.com",
+      "link": "https://www.nike.com/us/en_us/",
+      "displayLink": "www.nike.com",
+      "snippet": "Nike delivers innovative products, experiences and services to inspire athletes. \nFree shipping and returns on every order with NikePlus.",
+      "htmlSnippet": "\u003cb\u003eNike\u003c/b\u003e delivers innovative products, experiences and services to inspire athletes. \u003cbr\u003e\nFree shipping and returns on every order with NikePlus.",
+      "cacheId": "WTMRIgE5pjkJ",
+      "formattedUrl": "https://www.nike.com/us/en_us/",
+      "htmlFormattedUrl": "https://www.\u003cb\u003enike\u003c/b\u003e.com/us/en_us/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "340",
+            "height": "148",
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjpL3Nzj4Fag44k0gPoxAIjW1dm9rnlLnDIdkdjaBiIsb0EAtcXC8sPmE"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1",
+            "title": "Nike. Just Do It. Nike.com",
+            "og:locale": "en_US",
+            "displayphonenav": "true",
+            "og:title": "Nike. Just Do It",
+            "og:url": "https://www.nike.com/us/en_us/c",
+            "og:description": "Check out Nike.com and experience sports, training, athletes, shopping and everything else that's new at Nike. Just Do It.",
+            "fb:app_id": "1397260880304609",
+            "application-name": "Nike.com",
+            "msapplication-config": "none",
+            "msapplication-tilecolor": "#000000",
+            "msapplication-square70x70logo": "ie-icon-70x70.png",
+            "msapplication-square150x150logo": "ie-icon-150x150.png",
+            "msapplication-square310x310logo": "ie-icon-310x310.png",
+            "mobile-web-app-capable": "yes"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://content.nike.com/content/dam/one-nike/en_us/season-2018-fl/Homepage/NA/0924/lebron_HP_p1_d.jpg.transform/full-screen/lebron_HP_p1_d.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Nike News - The official news website for NIKE, Inc.",
+      "htmlTitle": "\u003cb\u003eNike\u003c/b\u003e News - The official news website for \u003cb\u003eNIKE\u003c/b\u003e, Inc.",
+      "link": "https://news.nike.com/",
+      "displayLink": "news.nike.com",
+      "snippet": "Your source for the latest NIKE, Inc. stories, news and company information.",
+      "htmlSnippet": "Your source for the latest \u003cb\u003eNIKE\u003c/b\u003e, Inc. stories, news and company information.",
+      "cacheId": "ioUOyK_ELcgJ",
+      "formattedUrl": "https://news.nike.com/",
+      "htmlFormattedUrl": "https://news.\u003cb\u003enike\u003c/b\u003e.com/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "266",
+            "height": "190",
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1T386YRtLCKYwvqy0fa0kb9ROXDS9b4kwMdWQXGz6Vp9p_3rIt50CRmU"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "csrf-param": "authenticity_token",
+            "csrf-token": "/RyartC3/Smp+gNjl2FjoTtxELxcla9cNnRWwmkRXKivtkvl8jZ9TWYjR2XfYy3337Ap91nINAnq8PoLDuIrgg==",
+            "og:title": "Nike News - The official news website for NIKE, Inc.",
+            "og:type": "article",
+            "og:image": "/images/swoosh-default.jpg",
+            "og:site_name": "Nike News",
+            "og:description": "Your source for the latest NIKE, Inc. stories, news and company information.",
+            "twitter:card": "summary_large_image",
+            "twitter:site": "@nike",
+            "twitter:title": "Nike News - The official news website for NIKE, Inc.",
+            "twitter:description": "Your source for the latest NIKE, Inc. stories, news and company information.",
+            "twitter:image:src": "/images/swoosh-default.jpg"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://s3.amazonaws.com/nikeinc/assets/82146/NikeSoho_001_re_rectangle_1000.jpg?1537981735"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Nike Women's Shoes, Clothing and Gear. Nike.com",
+      "htmlTitle": "\u003cb\u003eNike\u003c/b\u003e Women&#39;s Shoes, Clothing and Gear. \u003cb\u003eNike\u003c/b\u003e.com",
+      "link": "https://www.nike.com/us/en_us/c/women",
+      "displayLink": "www.nike.com",
+      "snippet": "Shop Nike.com for women's shoes, clothing and gear. Check out the latest Nike \ninnovations plus top performance and sportswear styles.",
+      "htmlSnippet": "Shop \u003cb\u003eNike\u003c/b\u003e.com for women&#39;s shoes, clothing and gear. Check out the latest \u003cb\u003eNike\u003c/b\u003e \u003cbr\u003e\ninnovations plus top performance and sportswear styles.",
+      "cacheId": "pdam-px1RvEJ",
+      "formattedUrl": "https://www.nike.com/us/en_us/c/women",
+      "htmlFormattedUrl": "https://www.\u003cb\u003enike\u003c/b\u003e.com/us/en_us/c/women",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "340",
+            "height": "148",
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS5M8zokyYbxx_G6eQWm-8ojVXZdWuVSIxnyHUnf9ysXQ8pL-iOEkBvd4Q5"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1",
+            "title": "Nike Women's Shoes, Clothing and Gear. Nike.com",
+            "og:locale": "en_US",
+            "og:title": "Nike Women'",
+            "og:url": "https://www.nike.com/us/en_us/c/women",
+            "og:description": "Shop Nike Store for women's shoes, clothing and gear. Browse t-shirts, bras, shorts, pants, dresses, bags, and more for sports or fashion. Order online \u003e",
+            "fb:app_id": "1397260880304609",
+            "application-name": "Nike.com",
+            "msapplication-config": "none",
+            "msapplication-tilecolor": "#000000",
+            "msapplication-square70x70logo": "ie-icon-70x70.png",
+            "msapplication-square150x150logo": "ie-icon-150x150.png",
+            "msapplication-square310x310logo": "ie-icon-310x310.png",
+            "mobile-web-app-capable": "yes"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://content.nike.com/content/dam/one-nike/en_us/season-2018-fl/Womens/0927/FallLayers_wlp_p1_d.jpg.transform/full-screen/FallLayers_wlp_p1_d.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Nike (@Nike) | Twitter",
+      "htmlTitle": "\u003cb\u003eNike\u003c/b\u003e (@\u003cb\u003eNike\u003c/b\u003e) | Twitter",
+      "link": "https://twitter.com/nike",
+      "displayLink": "twitter.com",
+      "snippet": "The latest Tweets from Nike (@Nike). Just Do It. Beaverton, Oregon.",
+      "htmlSnippet": "The latest Tweets from \u003cb\u003eNike\u003c/b\u003e (@\u003cb\u003eNike\u003c/b\u003e). Just Do It. Beaverton, Oregon.",
+      "cacheId": "D3hzgqL6ehcJ",
+      "formattedUrl": "https://twitter.com/nike",
+      "htmlFormattedUrl": "https://twitter.com/\u003cb\u003enike\u003c/b\u003e",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "225",
+            "height": "225",
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRoT41NvZubTyAr3yFfHvWd5yZZlgPu1dJqNW-HHJojjLjAT-tJ2uaVUejf"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tileimage": "//abs.twimg.com/favicons/win8-tile-144.png",
+            "msapplication-tilecolor": "#00aced",
+            "swift-page-name": "profile",
+            "swift-page-section": "profile",
+            "al:ios:url": "twitter://user?screen_name=Nike",
+            "al:ios:app_store_id": "333903271",
+            "al:ios:app_name": "Twitter",
+            "al:android:url": "twitter://user?screen_name=Nike",
+            "al:android:package": "com.twitter.android",
+            "al:android:app_name": "Twitter"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://pbs.twimg.com/profile_images/953320896101412864/UdE5mfkP_400x400.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Nike - Home | Facebook",
+      "htmlTitle": "\u003cb\u003eNike\u003c/b\u003e - Home | Facebook",
+      "link": "https://www.facebook.com/nike/",
+      "displayLink": "www.facebook.com",
+      "snippet": "Nike, Beaverton, OR. 32179029 likes · 126935 talking about this · 166169 were \nhere. Just Do It.",
+      "htmlSnippet": "\u003cb\u003eNike\u003c/b\u003e, Beaverton, OR. 32179029 likes · 126935 talking about this · 166169 were \u003cbr\u003e\nhere. Just Do It.",
+      "formattedUrl": "https://www.facebook.com/nike/",
+      "htmlFormattedUrl": "https://www.facebook.com/\u003cb\u003enike\u003c/b\u003e/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "225",
+            "height": "225",
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcROpRaYsX0nvgA9ICdI55J6O9gsLApOjPwf0EWFu23fUob77fWwlvzNkPo"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "default",
+            "al:android:app_name": "Facebook",
+            "al:android:package": "com.facebook.katana",
+            "al:android:url": "fb://page/15087023444?referrer=app_link",
+            "al:ios:app_name": "Facebook",
+            "al:ios:app_store_id": "284882215",
+            "al:ios:url": "fb://page/?id=15087023444",
+            "og:title": "Nike",
+            "og:description": "Nike, Beaverton, OR. 32,179,029 likes · 126,935 talking about this · 166,169 were here. Just Do It.",
+            "og:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=15087023444",
+            "og:url": "https://www.facebook.com/nike/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=15087023444"
+          }
+        ],
+        "localbusiness": [
+          {
+            "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=15087023444"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Nike, Inc. - Wikipedia",
+      "htmlTitle": "\u003cb\u003eNike\u003c/b\u003e, Inc. - Wikipedia",
+      "link": "http://en.wikipedia.com/wiki/Nike,_Inc.",
+      "displayLink": "en.wikipedia.com",
+      "snippet": "Nike, Inc is an American multinational corporation that is engaged in the design, \ndevelopment, manufacturing, and worldwide marketing and sales of footwear, ...",
+      "htmlSnippet": "\u003cb\u003eNike\u003c/b\u003e, Inc is an American multinational corporation that is engaged in the design, \u003cbr\u003e\ndevelopment, manufacturing, and worldwide marketing and sales of footwear,&nbsp;...",
+      "cacheId": "Zzx8r4sJVmIJ",
+      "formattedUrl": "en.wikipedia.com/wiki/Nike,_Inc.",
+      "htmlFormattedUrl": "en.wikipedia.com/wiki/\u003cb\u003eNike\u003c/b\u003e,_Inc.",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "277",
+            "height": "182",
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUKbfD2LqsZtUcDCMMoAaQ-c7t-al3NgQWe5PQ80yOTg5FQjc6jAsHNxxJ"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "origin",
+            "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Nikeworldheadquarters.jpg/1200px-Nikeworldheadquarters.jpg"
+          }
+        ],
+        "hcard": [
+          {
+            "fn": "Nike, Inc.",
+            "nickname": "Blue Ribbon Sports (1964–1971)",
+            "url": "Nike.com",
+            "url_text": "Nike.com",
+            "bday": "1964-01-25",
+            "label": "Washington County, Oregon, U.S. (Near Beaverton, Oregon)",
+            "logo": "Nike's Swoosh logo",
+            "category": "Public"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Nikeworldheadquarters.jpg/1200px-Nikeworldheadquarters.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "@nike • Instagram photos and videos",
+      "htmlTitle": "@\u003cb\u003enike\u003c/b\u003e • Instagram photos and videos",
+      "link": "https://www.instagram.com/nike/",
+      "displayLink": "www.instagram.com",
+      "snippet": "80.9m Followers, 138 Following, 953 Posts - See Instagram photos and videos \nfrom @nike.",
+      "htmlSnippet": "80.9m Followers, 138 Following, 953 Posts - See Instagram photos and videos \u003cbr\u003e\nfrom @\u003cb\u003enike\u003c/b\u003e.",
+      "formattedUrl": "https://www.instagram.com/nike/",
+      "htmlFormattedUrl": "https://www.instagram.com/\u003cb\u003enike\u003c/b\u003e/",
+      "pagemap": {
+        "metatags": [
+          {
+            "mobile-web-app-capable": "yes",
+            "theme-color": "#000000",
+            "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, viewport-fit=cover",
+            "al:ios:app_name": "Instagram",
+            "al:ios:app_store_id": "389801252",
+            "al:ios:url": "instagram://user?username=nike",
+            "al:android:app_name": "Instagram",
+            "al:android:package": "com.instagram.android",
+            "al:android:url": "https://www.instagram.com/_u/nike/",
+            "og:type": "profile",
+            "og:image": "https://scontent-atl3-1.cdninstagram.com/vp/23ab3a550dc553ca3f8b616887a39c1f/5C50E532/t51.2885-19/s150x150/26155970_1584552474997482_4541081815552622592_n.jpg",
+            "og:title": "@nike • Instagram photos and videos",
+            "og:description": "80.9m Followers, 138 Following, 953 Posts - See Instagram photos and videos from @nike",
+            "og:url": "https://www.instagram.com/nike/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://scontent-atl3-1.cdninstagram.com/vp/23ab3a550dc553ca3f8b616887a39c1f/5C50E532/t51.2885-19/s150x150/26155970_1584552474997482_4541081815552622592_n.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Working at Nike | Jobs and Careers at Nike",
+      "htmlTitle": "Working at \u003cb\u003eNike\u003c/b\u003e | Jobs and Careers at \u003cb\u003eNike\u003c/b\u003e",
+      "link": "https://jobs.nike.com/",
+      "displayLink": "jobs.nike.com",
+      "snippet": "At NIKE, Inc., we see a world where everybody is an athlete—united in the joy of \nmovement. Driven by our passion for sport and our instinct for innovation, we ...",
+      "htmlSnippet": "At \u003cb\u003eNIKE\u003c/b\u003e, Inc., we see a world where everybody is an athlete—united in the joy of \u003cbr\u003e\nmovement. Driven by our passion for sport and our instinct for innovation, we&nbsp;...",
+      "cacheId": "h2BNqwopUl4J",
+      "formattedUrl": "https://jobs.nike.com/",
+      "htmlFormattedUrl": "https://jobs.\u003cb\u003enike\u003c/b\u003e.com/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "318",
+            "height": "159",
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7BA4orabG1Yn42B_KDutabn1H196M-C6sq1v_MdY8bB2VK1MPKte0Yxs"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1",
+            "msvalidate.01": "2DD8A7FA6CE467FB295DCFC5902E58AC",
+            "og:image": "//tbcdn.talentbrew.com/company/824/v2_0/img/nike-share.jpg",
+            "msapplication-config": "none",
+            "og:title": "Working at Nike | Jobs and Careers at Nike",
+            "og:description": "Browse available job openings at NIKE INC"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://tbcdn.talentbrew.com/company/824/v2_0/img/nike-share.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}
