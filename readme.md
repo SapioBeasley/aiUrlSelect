@@ -33,7 +33,6 @@ Content-type: application/json
 - [x] Create a UI admin screen using D3 to graph average request duration
 
 #### Notes:
-- [x] Please submit your code via FTP (Dropbox, etc..) or zip file to jake@seamlesscontacts.com within 7 business days or beginning this test
 - [x] Make sure you include notes on how to run your code.
 - [x] Use the smallest amount of dependencies in your code.
 - [x] Feel free to use Babel, Webpack and ES6/ES7 features. If you are going to use stage-0 or stage-1 features, justify why.
