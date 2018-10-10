@@ -1,0 +1,25 @@
+section {
+    padding: 75px;
+}
+
+h3 {
+    margin: 0;
+}
+
+.chart .background {
+    fill: RGB(230, 237, 244)
+}
+
+.chart .foreground {
+    fill: RGB(0, 181, 241)
+}
+
+.chart .label {
+    fill: RGB(0, 181, 241);
+    text-anchor: middle;
+    alignment-baseline: middle;
+}
+
+.label {
+    font-size: 2em;
+}
