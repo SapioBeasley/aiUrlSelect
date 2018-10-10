@@ -1,0 +1,6 @@
+.idea/
+url-selector-api/.env
+url-selector-api/.idea/
+url-selector-client/.idea/
+url-selector-api/node_modules/
+url-selector-client/node_modules/
